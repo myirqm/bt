@@ -18,4 +18,4 @@ curl https://io.bt.sy/install/update_panel.sh|bash
 
 **服务器购买：**
 
-www.lekuidc.com
+[www.lekuidc.com](https://www.lekuidc.com)
